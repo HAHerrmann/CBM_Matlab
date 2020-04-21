@@ -5,7 +5,7 @@ The attached script `Leaf_Analysis.m` provides commented Matlab code for doing
 - A Flux Variability Analysis (FVA)
 - Flux Sampling (CHRR)
 
-The example using a published model of Arabidopsis leaf metabolism. 
+The examples use a published model of Arabidopsis leaf metabolism. 
 
 The model was originally published by [Arnold and Nikoloski](https://pubmed.ncbi.nlm.nih.gov/24808102/) and ammended by [us](https://www.nature.com/articles/s41540-019-0109-0). 
 
